@@ -1,0 +1,3 @@
+*.log
+!samir.log
+node_packs/
